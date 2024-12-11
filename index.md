@@ -2,7 +2,7 @@
 title: Donotleak
 --- 
 
-Link: Tiktok.com
+Link: Https://Tiktok.com
 ---
 Link: Now.gg
 ---
