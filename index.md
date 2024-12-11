@@ -1,11 +1,11 @@
 ---
 title: Donotleak
 --- 
-*link: Do not show
-Link: Https://Tiktok.com
+ Https://Tiktok.com
 ---
-Link: Https://now.gg
+ Https://now.gg
 ---
+
 
 
 
