@@ -2,12 +2,16 @@
 title: Donotleakpls.github.io
 --- 
  
-configure: [Youtube](https://www.youtube.com).net
+  [Youtube](https://www.youtube.com)
 
 
-configure: [Justmonkey](Https://justmonkey.vercel.app).net
+ [Justmonkey](Https://justmonkey.vercel.app)
 
 
-configure: [Tiktok](Https://tiktok.com).net
+ [Tiktok](Https://tiktok.com.net)
+
+ 
+
+
 
 
