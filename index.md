@@ -1,7 +1,7 @@
 ---
 title: Donotleakpls.github.io
 --- 
- <script></script>
+ <script>
 
   [Youtube](https://www.youtube.com)
 
@@ -10,5 +10,4 @@ title: Donotleakpls.github.io
 
 
  [Tiktok](Https://tiktok.com)
-
- <scipt>
+<script>
