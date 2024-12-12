@@ -12,3 +12,5 @@ ALL THINGS MADE BY ME IN INSTELLAR
 [Drift Chase](https://scratch.mit.edu/projects/809816554/)
 
 [Top Secret DO NOT SHARE](https://ominous-train-jjrvpv94697wf4q4-8080.app.github.dev)
+
+npm install npm run start
